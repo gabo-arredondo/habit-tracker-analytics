@@ -15,3 +15,24 @@ El stack del proyecto queda definido y congelado de la siguiente manera:
 
 Después de esta definición, no se realizarán cambios de stack,
 solo ajustes de implementación dentro de las tecnologías acordadas.
+
+
+## Roles y Responsabilidades
+
+### Gabriel
+- Frontend (React + TypeScript)
+- UX básica
+- Consumo de API
+- Presentación final
+
+### Fernando
+- Modelo de datos
+- SQL
+- Análisis con Pandas
+- Power BI
+- Backend
+
+### Ambos
+- Decisiones clave
+- Reviews
+- Documentación
