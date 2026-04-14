@@ -32,6 +32,11 @@ solo ajustes de implementación dentro de las tecnologías acordadas.
 - Power BI
 - Backend
 
+# Habit Analytics Dashboard
+
+Proyecto de seguimiento de hábitos enfocado en el análisis de progreso,
+métricas de constancia y visualización mediante dashboards.
+
 ### Ambos
 - Decisiones clave
 - Reviews
