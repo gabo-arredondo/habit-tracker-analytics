@@ -41,3 +41,24 @@ métricas de constancia y visualización mediante dashboards.
 - Decisiones clave
 - Reviews
 - Documentación
+
+
+## Objetivo del Proyecto
+
+Desarrollar una aplicación web que permita registrar hábitos diarios y analizar
+el progreso de los usuarios en el tiempo mediante métricas de constancia,
+evolución y visualización en dashboards analíticos.
+
+
+## Alcance
+
+### Incluye
+- Registro de hábitos diarios
+- Seguimiento de cumplimiento por día y semana
+- Métricas de constancia y progreso
+- Visualización de datos en dashboards
+
+### No incluye
+- Autenticación avanzada
+- Notificaciones
+- Aplicación móvil
